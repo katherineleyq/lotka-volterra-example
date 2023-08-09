@@ -84,3 +84,5 @@ What happens as you change the different parameters (and re-run the entire code 
 -   $\gamma$ is a mortality rate for predator
 
 ## End
+
+### I changed something!
